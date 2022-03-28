@@ -8,5 +8,7 @@ The primary analysis uses data for COVID-19 deaths and hospitalizations from [CO
 Replication files are also included for our county-level analysis of Medicaid expansion. 
 The data for the county-level analysis comes from multiple sources. We measure the 2019 county-level insurance rate using the [2008 - 2019 Small Area Health Insurance Estimates (SAHIE) using the American Community Survey (ACS)](https://www.census.gov/data/datasets/time-series/demo/sahie/estimates-acs.html). The data for county-level deaths and covid-19 deaths related deaths (probable/confirmed) comes from [Provisional COVID-19 Death Counts in the United States by County](https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-in-the-United-St/kn79-hsxy). The county-level data for COVID-19 confirmed deaths, cases, tests, and hospitalizations is web scraped from the CDC's [COVID-19 Integrated County View](https://covid.cdc.gov/covid-data-tracker/#county-view). Data on the republican share of the 2016 presidential vote is taken from [County Presidential Election Returns 2000-2016](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ). All of the source data for the county-level analysis is publically available, hence the replication files include both the data and programs. County-level replication exercises should begin at line 66 of the "Master.do" do-file.
 
+[![DOI](https://zenodo.org/badge/474384156.svg)](https://zenodo.org/badge/latestdoi/474384156)
+
 ## Author
 - Travis Campbell -- Contact me at tbcampbell@umass.edu
